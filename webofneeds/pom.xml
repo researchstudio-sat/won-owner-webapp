@@ -103,7 +103,7 @@
         <!-- versions for various dependencies -->
         <aspectj.version>1.5.4</aspectj.version>
         <bouncycastle.version>1.64</bouncycastle.version>
-        <commons-collections.version>3.2.1</commons-collections.version>
+        <commons-collections.version>3.2.2</commons-collections.version>
         <commons-io.version>2.4</commons-io.version>
         <de.uni_koblenz.aggrimm.icp.version>1.0.1</de.uni_koblenz.aggrimm.icp.version>
         <camel.version>2.12.1</camel.version>
