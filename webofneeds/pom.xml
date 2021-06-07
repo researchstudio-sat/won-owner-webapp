@@ -115,7 +115,7 @@
         <siren.version>1.4</siren.version>
         <cglib.version>2.2.2</cglib.version>
         <com.google.guava.version>15.0</com.google.guava.version>
-        <ch.qos.logback.version>1.0.13</ch.qos.logback.version>
+        <ch.qos.logback.version>1.2.0</ch.qos.logback.version>
         <com.fasterxml.classmate.version>1.0.0</com.fasterxml.classmate.version>
         <com.mchange.c3p0.version>0.9.5</com.mchange.c3p0.version>
         <junit.version>4.12</junit.version>
