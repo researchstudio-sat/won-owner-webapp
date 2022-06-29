@@ -119,7 +119,7 @@
         <com.fasterxml.classmate.version>1.0.0</com.fasterxml.classmate.version>
         <com.mchange.c3p0.version>0.9.5</com.mchange.c3p0.version>
         <junit.version>4.12</junit.version>
-        <org.apache.commons.email.version>1.3.1</org.apache.commons.email.version>
+        <org.apache.commons.email.version>1.5</org.apache.commons.email.version>
         <net.sf.ehcache.version>2.6.8</net.sf.ehcache.version>
         <org.apache.jena.version>3.5.0</org.apache.jena.version>
         <org.apache.jena-tdb.version>3.5.0</org.apache.jena-tdb.version>
